@@ -3,14 +3,19 @@
   "version": "1.0.0",
   "description": "API that returns fake data for the SPA",
   "main": "index.js",
+  "scripts": {
+    "start": "json-server index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crispe1586/trv-venue-hotel-api.git"
+  },
   "dependencies": {
     "faker": "^4.1.0",
     "json-server": "^0.12.1"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Cristina Restrepo",
   "license": "ISC"
 }
