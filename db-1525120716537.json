@@ -1,0 +1,327 @@
+{
+  "hotels": [
+    {
+      "id": "60163aa3-72ea-47ab-bd54-581eeadf7b6f",
+      "name": "King - Turcotte",
+      "description": "Fugiat vel consectetur doloremque consequatur rerum omnis animi fugiat.",
+      "distance_to_venue": 113,
+      "rating": "4.5",
+      "price_category": "medium",
+      "amenities": [
+        "restaurant",
+        "pool",
+        "pets",
+        "spa",
+        "free-parking",
+        "free-wifi"
+      ],
+      "images": [
+        "imgHotel4_640x427.jpeg",
+        "imgHotel1_640x427.jpeg",
+        "imgHotel3_640x427.jpeg"
+      ],
+      "rooms": [
+        {
+          "id": "b79e859f-7afe-49cb-8527-c75d29cd4ed8",
+          "name": "Amet accusamus.",
+          "description": "Et consectetur maiores sit ut sit tempora dolores fugit.",
+          "max_occupancy": 8,
+          "price_in_usd": "87.32"
+        },
+        {
+          "id": "a515f588-0dcf-4186-b589-63d9fc444dc6",
+          "name": "Quis enim.",
+          "description": "Quia maiores nihil ducimus necessitatibus.",
+          "max_occupancy": 5,
+          "price_in_usd": "337.80"
+        },
+        {
+          "id": "c8fab6d5-272a-4760-a7d7-4feb1958c2ba",
+          "name": "Aut exercitationem.",
+          "description": "Ut eaque quod necessitatibus impedit pariatur et excepturi saepe eum.",
+          "max_occupancy": 1,
+          "price_in_usd": "56.98"
+        },
+        {
+          "id": "c0387f76-cc0e-4798-8dde-c69b90ee0853",
+          "name": "Saepe voluptatem.",
+          "description": "Nulla minus dolor.",
+          "max_occupancy": 3,
+          "price_in_usd": "71.45"
+        },
+        {
+          "id": "a0e5e749-5255-4c8d-a489-6d822252220a",
+          "name": "Ipsum molestias.",
+          "description": "Labore animi in sit et rerum autem excepturi delectus.",
+          "max_occupancy": 8,
+          "price_in_usd": "32.77"
+        }
+      ]
+    },
+    {
+      "id": "2300483f-0f3e-449a-964b-afeefb1a811e",
+      "name": "Turcotte - Borer",
+      "description": "Sunt quam iure eveniet ut nostrum ut.",
+      "distance_to_venue": 674,
+      "rating": "0.4",
+      "price_category": "high",
+      "amenities": [
+        "pets"
+      ],
+      "images": [
+        "imgHotel3_640x427.jpeg",
+        "imgHotel1_640x427.jpeg",
+        "imgHotel2_640x427.jpeg"
+      ],
+      "rooms": [
+        {
+          "id": "7ecd1cfe-5172-44c0-8b7a-08740472d1c1",
+          "name": "Et et.",
+          "description": "Dolores dolor vel similique vel.",
+          "max_occupancy": 10,
+          "price_in_usd": "55.10"
+        },
+        {
+          "id": "e2bd58ff-02c8-4251-a18c-7fe2b9e7bd75",
+          "name": "Fugit sit.",
+          "description": "Modi praesentium recusandae velit vel magni temporibus qui molestias.",
+          "max_occupancy": 7,
+          "price_in_usd": "124.14"
+        },
+        {
+          "id": "7a353569-fca7-4c31-ba63-be8d35563f89",
+          "name": "Itaque dicta.",
+          "description": "Incidunt aut accusamus cum enim quo sint voluptates voluptatem.",
+          "max_occupancy": 6,
+          "price_in_usd": "305.37"
+        }
+      ]
+    },
+    {
+      "id": "7968af19-e2a3-4e94-a49e-f39f1bd025cf",
+      "name": "Cummerata - Gleason",
+      "description": "Non voluptas porro pariatur impedit omnis est fugiat.",
+      "distance_to_venue": 82,
+      "rating": "0.1",
+      "price_category": "low",
+      "amenities": [
+        "pool",
+        "free-parking",
+        "free-wifi",
+        "pets",
+        "gym",
+        "spa",
+        "restaurant"
+      ],
+      "images": [
+        "imgHotel4_640x427.jpeg",
+        "imgHotel2_640x427.jpeg",
+        "imgHotel1_640x427.jpeg"
+      ],
+      "rooms": [
+        {
+          "id": "b9bd583b-8f64-4c0d-8f04-caa7b0477e44",
+          "name": "Debitis magnam.",
+          "description": "Quaerat quidem voluptatum qui dolor minima similique dignissimos libero magni.",
+          "max_occupancy": 10,
+          "price_in_usd": "144.42"
+        },
+        {
+          "id": "97e7774b-13b1-43e0-93ac-c80ce3b5f1ae",
+          "name": "Incidunt modi.",
+          "description": "Ex delectus ullam nemo omnis enim quia quos nisi quae.",
+          "max_occupancy": 1,
+          "price_in_usd": "258.05"
+        },
+        {
+          "id": "2400366b-700d-403a-ac65-dbd8763cd32c",
+          "name": "Nisi et.",
+          "description": "Quia sed occaecati deleniti unde repellat maiores.",
+          "max_occupancy": 2,
+          "price_in_usd": "93.12"
+        },
+        {
+          "id": "0f731957-ac0f-4fee-8478-2457ca783a70",
+          "name": "Minima occaecati.",
+          "description": "Praesentium tenetur perspiciatis maxime aperiam illo voluptatem aut recusandae.",
+          "max_occupancy": 5,
+          "price_in_usd": "59.13"
+        },
+        {
+          "id": "98c70d36-8cf6-4811-9b88-b5d3d06bc5c8",
+          "name": "Vero nulla.",
+          "description": "Laborum ipsum sit eaque pariatur.",
+          "max_occupancy": 10,
+          "price_in_usd": "48.28"
+        },
+        {
+          "id": "86d61b37-4235-4510-98cd-e4c9469d5935",
+          "name": "Quaerat voluptatum.",
+          "description": "Ut accusamus pariatur quibusdam aliquid explicabo ipsam sit dolore.",
+          "max_occupancy": 3,
+          "price_in_usd": "312.08"
+        }
+      ]
+    },
+    {
+      "id": "2947f3d3-a62e-40d4-ab9c-89eb55069fec",
+      "name": "Schroeder - Kshlerin",
+      "description": "Nobis rerum ut temporibus vitae iusto doloremque aut eum at.",
+      "distance_to_venue": 331,
+      "rating": "1.4",
+      "price_category": "medium",
+      "amenities": [
+        "pets",
+        "pool"
+      ],
+      "images": [
+        "imgHotel1_640x427.jpeg",
+        "imgHotel4_640x427.jpeg",
+        "imgHotel3_640x427.jpeg"
+      ],
+      "rooms": [
+        {
+          "id": "f930c67f-6344-4d03-bc58-9bc50d8b4181",
+          "name": "Voluptas perferendis.",
+          "description": "Quam nesciunt sit et.",
+          "max_occupancy": 6,
+          "price_in_usd": "255.00"
+        },
+        {
+          "id": "aa0533e3-f1e8-4070-a203-f4bb578ab383",
+          "name": "Est ipsum.",
+          "description": "Quam odit est non dicta.",
+          "max_occupancy": 6,
+          "price_in_usd": "122.93"
+        },
+        {
+          "id": "04ffefdb-ced7-4233-a93f-60c1eb35ab12",
+          "name": "Et ut.",
+          "description": "Et aliquid recusandae neque enim iste.",
+          "max_occupancy": 7,
+          "price_in_usd": "128.96"
+        },
+        {
+          "id": "6b6a7791-5253-41cc-9e5f-6b023ac007a0",
+          "name": "Sit voluptatem.",
+          "description": "Ut sint expedita sit pariatur ipsam labore similique ea.",
+          "max_occupancy": 4,
+          "price_in_usd": "224.77"
+        },
+        {
+          "id": "14073e72-826e-4030-99a2-2258ec11caf7",
+          "name": "Ipsum est.",
+          "description": "Asperiores quia omnis.",
+          "max_occupancy": 1,
+          "price_in_usd": "299.85"
+        }
+      ]
+    },
+    {
+      "id": "e2e94b40-5562-4c19-aa5e-4256b0087968",
+      "name": "Volkman - Mraz",
+      "description": "Et est possimus.",
+      "distance_to_venue": 670,
+      "rating": "0.2",
+      "price_category": "low",
+      "amenities": [
+        "free-wifi",
+        "free-parking"
+      ],
+      "images": [
+        "imgHotel2_640x427.jpeg",
+        "imgHotel1_640x427.jpeg",
+        "imgHotel4_640x427.jpeg"
+      ],
+      "rooms": [
+        {
+          "id": "4eec7f20-f3c7-4959-9f44-6c0eefd2112b",
+          "name": "Labore ducimus.",
+          "description": "Odit sed ut et odit dolore exercitationem rerum quasi ea.",
+          "max_occupancy": 4,
+          "price_in_usd": "298.49"
+        },
+        {
+          "id": "5ecdef4f-bd41-4255-a6fa-83200a981bd3",
+          "name": "Perferendis et.",
+          "description": "Ut perspiciatis unde omnis debitis exercitationem distinctio.",
+          "max_occupancy": 8,
+          "price_in_usd": "38.25"
+        },
+        {
+          "id": "8d0fedd3-ec8e-4ce6-a352-6871d6b25a76",
+          "name": "Facilis voluptates.",
+          "description": "Rerum qui voluptatem dolor omnis voluptas dolorum.",
+          "max_occupancy": 8,
+          "price_in_usd": "63.83"
+        },
+        {
+          "id": "9f53fd75-eb27-4727-8a0a-c911de1a9b31",
+          "name": "Voluptatem velit.",
+          "description": "Molestiae unde fuga similique velit et mollitia fugit.",
+          "max_occupancy": 6,
+          "price_in_usd": "355.06"
+        }
+      ]
+    },
+    {
+      "id": "311323c8-3871-408f-8ceb-306b0abe21a4",
+      "name": "Okuneva - Stokes",
+      "description": "Consequuntur quia non aut temporibus.",
+      "distance_to_venue": 38,
+      "rating": "3.9",
+      "price_category": "medium",
+      "amenities": [
+        "spa",
+        "free-wifi"
+      ],
+      "images": [
+        "imgHotel3_640x427.jpeg",
+        "imgHotel2_640x427.jpeg",
+        "imgHotel1_640x427.jpeg"
+      ],
+      "rooms": [
+        {
+          "id": "c49438cc-3926-4e3b-9822-bdbac3985b00",
+          "name": "Quo et.",
+          "description": "Praesentium qui ipsa odit.",
+          "max_occupancy": 6,
+          "price_in_usd": "183.14"
+        },
+        {
+          "id": "da8cbd0b-fabd-4b13-bdfc-dfa00f3a9ccc",
+          "name": "Illo est.",
+          "description": "Similique vel laborum.",
+          "max_occupancy": 3,
+          "price_in_usd": "298.13"
+        },
+        {
+          "id": "4a9a6de7-f92e-40b2-8c45-d6978f9c168a",
+          "name": "Enim qui.",
+          "description": "Distinctio iusto architecto facilis aut voluptatem cum.",
+          "max_occupancy": 10,
+          "price_in_usd": "30.28"
+        }
+      ]
+    },
+    {
+      "newHotel": {
+        "id": "18734fa8-b1ed-4d87-9090-239797ec9587",
+        "name": "cristina",
+        "description": "s",
+        "distance_to_venue": 0.01,
+        "rating": "5",
+        "price_category": "low",
+        "amenities": [
+          "free_parking"
+        ],
+        "images": [
+          "imgHotel1_640x427.jpeg",
+          "imgHotel2_640x427.jpeg",
+          "imgHotel3_640x427.jpeg"
+        ]
+      },
+      "id": "tkDuZyK"
+    }
+  ]
+}

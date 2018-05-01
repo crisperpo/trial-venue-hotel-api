@@ -29,7 +29,7 @@ module.exports = function () {
 			distance_to_venue: faker.random.number(1000),
 			rating: faker.finance.amount(0, 5, 1),
 			price_category: faker.random.arrayElement(['low','medium','high']),
-			amenities: arraySubset(['free-parking','free-wifi','pets','restaurant','gym','pool','spa']),
+			amenities: arraySubset(['free_parking','free_wifi','pets','restaurant','gym','pool','spa']),
 			images: arraySubset([
 				"imgHotel1_640x427.jpeg",
 				"imgHotel2_640x427.jpeg",
