@@ -1,7 +1,6 @@
-/************************ README *************************/
+##Running the API
+1. Install dependencies
+trv-venue-hotel-api$ npm install
 
-1. Install the dependencies:
-	$ npm install
-
-2. To run:
-	$ npm start
+2. Run service
+trv-venue-hotel-api$ npm start
